@@ -21,3 +21,4 @@ COPY model.gguf .
 ENV PYTHONUNBUFFERED=1
 
 CMD ["python", "main.py"]
+
